@@ -2,6 +2,7 @@
 
 <h2>Project Overview</h2>
     <p>This project demonstrates a lane detection system using computer vision techniques in Python with the help of the OpenCV library. The system processes video frames to detect lane lines on roads, which is crucial for developing autonomous driving systems. The resulting video, showcasing detected lanes, is saved to a file for further analysis and visualization.</p>
+<img src="https://github.com/Papakobina/Lane-Detection/blob/main/lane_detection_overview.png"/>
     
   <h2>Technology Stack</h2>
     <ul>
